@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am full stack software developer<br>Devops engineer<br>Client side - React and Angular<br>Server side - Django Rest and Postgres<br>CD - Containerization in docker and kubernetes
+I'm  a full stack software developer<br>Devops engineer<br>Client side - React and Angular<br>Server side - Django Rest and Postgres<br>CD - Containerization in docker and kubernetes
 
 
 # 💻 Tech Stack:
